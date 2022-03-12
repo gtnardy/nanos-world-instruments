@@ -1,2 +1,3 @@
 # nanos-world-instruments
-nanos world Instruments Pack for sandbox game-mode
+
+Playable Instruments for sandbox game-mode
